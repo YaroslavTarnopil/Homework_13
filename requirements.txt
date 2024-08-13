@@ -1,0 +1,5 @@
+Django>=4.2
+psycopg2>=2.9
+django-environ>=0.9
+django-redis>=5.2
+django-cloudinary-storage>=0.3
